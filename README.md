@@ -1,4 +1,4 @@
-<img src="img/gif/flutter.gif">
+<img src="flutter.gif">
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=;35&center=true&vCenter=true&repeat=false&random=false&width=400&height=40&duration=4000&lines=I'm+Prothes+Barai" alt="I'm+Prothes Barai" />
@@ -9,7 +9,7 @@
                                                                     
 </h1>                                                                                                                                                         
 <p align="center">                                     
-  <img src="img/gif/engr.gif" alt="Programming" width="400"/>               
+  <img src="engr.gif" alt="Programming" width="400"/>               
 </p>
 <h3 align="center">A passionate Software Engr. from Bangladesh</h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prothesbarai&label=Profile%20views&color=0e75b6&style=flat" alt="prothesbarai" /> </p>         
