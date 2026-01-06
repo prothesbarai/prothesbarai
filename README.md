@@ -16,9 +16,13 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=prothesbarai&theme=onedark" alt="prothesbarai" />                  
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=prothesbarai&theme=onedark" alt="prothesbarai" />-->    
+    [![trophy](https://github-profile-trophy.vercel.app/?username=prothesbarai-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </a> 
-</p>                
+</p>  
+
+
+
 
 <p align="left"> <a href="https://twitter.com/prothesbarai" target="blank"><img src="https://img.shields.io/twitter/follow/prothesbarai?logo=twitter&style=for-the-badge" alt="prothesbarai" /></a> </p>
 
