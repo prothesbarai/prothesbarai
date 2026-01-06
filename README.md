@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prothesbarai&label=Profile%20views&color=0e75b6&style=flat" alt="prothesbarai" /> </p>         
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+  <a href="https://github.com/prothesbarai"> 
     <!--<img src="https://github-profile-trophy.vercel.app/?username=prothesbarai&theme=onedark" alt="prothesbarai" />-->    
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=prothesbarai&rank=SECRET&wantMultipleOrganizations=true" alt="prothesbarai" />
     
